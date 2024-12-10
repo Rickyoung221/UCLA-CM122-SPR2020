@@ -4,6 +4,6 @@ UCLA course - Algorithm in Bioinformatics
 
 Grade Reveiced: A
 
-​:smile:​ If this repository does help you, please star and fork it, it will be a great support for me.
+😄 If this repository does help you, please star and fork it, it will be a great support for me.
 
-​:warning:​ Note that please do not directly copy the code, the code should be just for reference merely. 
+⚠️​ Note that please do not directly copy the code, the code should be just for reference merely. 
